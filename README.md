@@ -21,4 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rupakbera21&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🐍 Contribution Graph
+![snake gif](https://github.com/rupakbera21/rupakbera21/blob/output/github-contribution-grid-snake.gif)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
