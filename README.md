@@ -1,3 +1,4 @@
+![MasterHead](https://i.ibb.co/4KrpBG4/ezgif-2-b1a72a9797.gif)
 # 💫 About Me: 
 # I am a passionate AI/ML enthusiast from India
 
