@@ -1,5 +1,3 @@
-![MasterHead](https://im.ezgif.com/tmp/ezgif-1-0d8496e71e.gif)
-
 # 💫 About Me: 
 # I am a passionate AI/ML enthusiast from India
 
