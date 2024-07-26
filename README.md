@@ -36,7 +36,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rupakbera21&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rupakbera21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/rupakbera21/count.svg?"  />
 </div>
