@@ -1,5 +1,5 @@
 ![MasterHead](https://i.ibb.co/4KrpBG4/ezgif-2-b1a72a9797.gif)
-# <h2 align="center">Hi 👋! My name is Rupak and I'm a Computer Science UnderGrad from India</h2>
+# <h2 align="center">Hi 👋! My name is Rupak and I'm a Computer Science PostGrad from India</h2>
 
 ## 💫 About Me:
 <br>🌱 I’m currently learning : Data Analytics 
