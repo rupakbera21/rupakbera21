@@ -59,14 +59,12 @@ I am a dedicated **M.Sc. Computer Science** student at **St. Xavier's University
 
 ---
 
-## 📊 GitHub Contributions
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupakbera21&theme=dracula&bg_color=0d1117&hide_border=true&color=50fa7b" width="100%" />
-</p>
+## GitHub Contributions
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupakbera21&theme=tokyonight&hide_border=true" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rupakbera21/rupakbera21/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/rupakbera21/rupakbera21/output/github-snake.svg" alt="Animated snake moving through Rupak's GitHub contribution grid" width="100%">
+</picture>
 
 
 ---
